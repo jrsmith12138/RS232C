@@ -1,0 +1,6 @@
+C:\Users\84907\source\repos\Project9\obj\Debug\Project9.csprojAssemblyReference.cache
+C:\Users\84907\source\repos\Project9\bin\Debug\Project9.exe.config
+C:\Users\84907\source\repos\Project9\bin\Debug\Project9.exe
+C:\Users\84907\source\repos\Project9\bin\Debug\Project9.pdb
+C:\Users\84907\source\repos\Project9\obj\Debug\Project9.exe
+C:\Users\84907\source\repos\Project9\obj\Debug\Project9.pdb
